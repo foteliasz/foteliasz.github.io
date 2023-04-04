@@ -5,6 +5,21 @@ categories: [Kubernetes]
 tags: [kubernetes, minikube, docker, home-lab, laboratory]
 ---
 
+## Why do you need a local Kubernetes cluster?
+
+### Firtly, why Kubernetes?
+
+1. Because it is a popular and widely used container orchestration platform in the industry.
+2. To gain hands-on experience with this technology.
+
+### Why locally? Why not use PaaS from cloud providers?
+
+1. With a local Kubernetes cluster, you have complete control over the setup and _peek under the hood_ to better understand of how this technology works.
+2. A local Kubernetes cluster allows you to experiment with different configurations and settings without incurring cloud costs.
+3. Finally, having a local Kubernetes cluster for learning and experimentation can be a valuable asset for your career growth.
+
+Now, when we had it settled, let us get to the business.
+
 ## Selected technologies
 
 Selected technologies for this project are:
