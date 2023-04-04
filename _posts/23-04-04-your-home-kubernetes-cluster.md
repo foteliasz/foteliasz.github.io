@@ -2,7 +2,7 @@
 title: Raspberry Pi ➕ Docker ➕ minikube 🟰 your home Kubernetes cluster ⚗️
 date: 2023-04-04
 categories: [Kubernetes]
-tags: [kubernetes, minikube, docker, home-lab, laboratory]
+tags: [kubernetes, minikube, docker, home-lab, laboratory, diy]
 ---
 
 ## Why do you need a local Kubernetes cluster?
