@@ -1,6 +1,5 @@
 ---
 title: Raspberry Pi ➕ Docker ➕ minikube 🟰 your home Kubernetes cluster ⚗️
-permalink: /your-home-kubernetes-cluster
 date: 2023-04-04
 categories: [Kubernetes]
 tags: [kubernetes, minikube, docker, home-lab, laboratory]
