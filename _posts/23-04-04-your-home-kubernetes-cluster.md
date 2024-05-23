@@ -7,7 +7,7 @@ tags: [kubernetes, minikube, docker, home-lab, laboratory, diy]
 
 ## Why do you need a local Kubernetes cluster?
 
-### Firtly, why Kubernetes?
+### Firstly, why Kubernetes?
 
 1. Because it is a popular and widely used container orchestration platform in the industry.
 2. To gain hands-on experience with this technology.
@@ -25,7 +25,7 @@ Now, when we had it settled, let us get to the business.
 Selected technologies for this project are:
 
 | Area                | Selection                       | Version                |
-|---------------------|---------------------------------|------------------------|
+| ------------------- | ------------------------------- | ---------------------- |
 | Hardware            | [Raspberry Pi][RASP]            | 4 Model B with 8GB RAM |
 | OS                  | [Ubuntu Server for ARM][UBUNTU] | 22.04.2 LTS (64-bit)   |
 | Kubernetes platform | [minikube][MINIKUBE]            | 1.29.0                 |
