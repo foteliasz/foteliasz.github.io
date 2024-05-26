@@ -1,5 +1,5 @@
 ---
-title: 🗝️ Git cookbook
+title: Git cookbook
 date: 2024-05-23
 categories: [Cookbook]
 tags: [git, cookbook]
