@@ -2,7 +2,7 @@
 title: 🗝️ Keycloak cookbook
 date: 2024-05-23
 categories: [Cookbook]
-tags: [keycloak, docker, home-lab, diy]
+tags: [keycloak, docker, cookbook]
 ---
 
 ## Swiftly kick off local 🗝️ Keycloak `21.1.2` instance for prototyping
