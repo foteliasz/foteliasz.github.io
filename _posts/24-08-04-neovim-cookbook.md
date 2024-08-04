@@ -10,11 +10,11 @@ tags: [cookcook, neovim, vim]
 ## Navigation
 
 ```text
-      ↑k            moving word:to word
-  ← h    l →        └──────┴───────┘ 
-      ↓j            ↑  w   ↑   W   ↑
+            ↑k              moving word:to word
+        ← h    l →          └──────┴───────┘
+            ↓j                 w       W
 ```
 
 ## Commands
 
-`u` Undo
+`u` - Undo
