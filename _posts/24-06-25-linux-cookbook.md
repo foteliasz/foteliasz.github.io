@@ -3,6 +3,7 @@ title: Linux cookbook
 date: 2024-05-23
 categories: [Cookbook]
 tags: [Linux, Parrot, Kali, cookbook]
+author: foteliasz
 ---
 
 ## Linux directory structure

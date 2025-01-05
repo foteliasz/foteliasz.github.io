@@ -3,6 +3,7 @@ title: Devcontainer CLI cookbook
 date: 2024-06-27
 categories: [Cookbook]
 tags: [Devcontainer, cookbook]
+author: foteliasz
 ---
 
 ## Installation

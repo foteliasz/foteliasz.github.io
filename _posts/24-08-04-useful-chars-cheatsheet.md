@@ -3,6 +3,7 @@ title: Useful characters cheatsheet
 date: 2024-08-04
 categories: [Cheatsheet]
 tags: [cheatsheet, unicode, ascii, characters]
+author: foteliasz
 ---
 
 # Useful characters cheatsheet

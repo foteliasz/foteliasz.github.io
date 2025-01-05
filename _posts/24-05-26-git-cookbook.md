@@ -3,6 +3,7 @@ title: Git cookbook
 date: 2024-05-23
 categories: [Cookbook]
 tags: [git, cookbook]
+author: foteliasz
 ---
 
 ## Git clone remote repo at specific branch

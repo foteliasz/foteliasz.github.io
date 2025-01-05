@@ -3,6 +3,7 @@ title: 🗝️ Keycloak cookbook
 date: 2024-05-23
 categories: [Cookbook]
 tags: [keycloak, docker, cookbook]
+author: foteliasz
 ---
 
 ## Swiftly kick off local 🗝️ Keycloak `25.0.6` instance for prototyping
